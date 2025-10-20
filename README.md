@@ -14,7 +14,7 @@ It measures the performance of both models using **Jaccard Similarity** across a
 
 ---
 
-# How It Works
+## How It Works
 
 1. Extract dataset (text.zip) from Google Drive.
 2. For each image:
