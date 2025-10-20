@@ -18,7 +18,7 @@ It measures the performance of both models using **Jaccard Similarity** across a
 
 1. Extract dataset (text.zip) from Google Drive.
 2. For each image:
-  - Read ground truth (from filename)
-  - Run OCR using Tesseract and EasyOCR
-  - Compute Jaccard similarity
+  > - Read ground truth (from filename)
+  > - Run OCR using Tesseract and EasyOCR
+  > - Compute Jaccard similarity
 3. Average the similarity scores to compare overall accuracy.
